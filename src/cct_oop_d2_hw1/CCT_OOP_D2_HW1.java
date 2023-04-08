@@ -1,4 +1,4 @@
-// commit 1 branch 2
+// commit 2 branch 2
 package cct_oop_d2_hw1;
 
 import java.io.BufferedReader;
